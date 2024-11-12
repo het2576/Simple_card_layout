@@ -72,7 +72,7 @@ h3 {
     left: 105px;
     bottom: 10px;
     border-radius: 40px;
-    border: 1px solid black;
+    border: none;
     font-weight: bolder;
     cursor: pointer;
     color: rgba(39, 61, 230, 0.908);
